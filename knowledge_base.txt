@@ -1,0 +1,10 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+Machine Learning is a subset of AI that enables systems to learn from data.
+Deep Learning uses neural networks with many layers to learn complex patterns.
+Natural Language Processing (NLP) allows machines to understand human language.
+A vector database stores data as high-dimensional vectors for similarity search.
+RAG stands for Retrieval Augmented Generation, combining search with AI generation.
+Large Language Models (LLMs) are AI models trained on massive text datasets.
+Semantic search finds results based on meaning rather than exact keyword matching.
+Python is the most popular programming language for AI and ML development.
+GitHub is a platform for version control and collaboration using Git.
